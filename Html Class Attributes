@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<style>
+		.city{background-color: maroon;
+			color: whitesmoke;
+			border: 2px solid black;
+			margin:20px;
+			padding: 20px;
+		}
+	</style>
+</head>
+<body>
+	<div class="city">
+		<h2>Nakuru City</h2>
+<p>Nakuru city is located along the nakuru/nairobi highway</p>
+</div>
+<div class="city">
+		<h2>Kisumu City</h2>
+<p>Kisumu city is located along the shores of lake victoria</p>
+</div><div class="city">
+		<h2>Eldoret City</h2>
+<p>Eldoret city is located along the nakuru/Eldoret highway</p>
+</div><div class="city">
+		<h2>Mombasa City</h2>
+<p>Mombasa city is located along the shores of the indian ocean</p>
+</div>
+	
+</body>
+</html>
