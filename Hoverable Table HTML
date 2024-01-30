@@ -1,0 +1,60 @@
+<!doctype html>
+<html>
+<style>
+	table{
+		border-collapse: collapse;
+		width: 100%;
+	}
+	th,td{
+		text-align: left;
+		padding: 8px;
+	}
+	tr:nth-child(even){
+		background-color:#WHITE;
+		border-bottom: 1px solid #ddd;
+	}
+	tr:hover{background-color: #D6EEEE}	
+	</style>
+	<body>
+		<table style="width:100%">
+	<caption>National Details</caption>
+	<tr>
+		<th>NAMES</th>
+		<th>CONTACT</th>
+		<th>COUNTRY</th>
+	</tr>
+	<tr>
+		<td>Isaac kaapei</td>
+		<td>0757100793</td>
+		<td>Kenya</td>
+	</tr>
+	<tr>
+		<td>John Terry</td>
+		<td>0757100793</td>
+		<td>England</td>
+	</tr>
+	<tr>
+		<td>Mohammed Salah</td>
+		<td>0757100630</td>
+		<td>Egypt</td>
+	</tr>
+	<tr>
+		<td>Trent Arnold</td>
+		<td>0710143619</td>
+		<td>Albania</td>
+	</tr>
+	<tr>
+		<td>Dominik Szoszbozlai</td>
+		<td>0723076390</td>
+		<td>Hungary</td>
+	</tr><tr>
+		<td>Alison Becker </td>
+		<td>0720742002</td>
+		<td>Brazil</td>
+	</tr><tr>
+		<td>Wataru Endo</td>
+		<td>0757100248</td>
+		<td>Japan</td>
+	</tr>
+	</html>
+
